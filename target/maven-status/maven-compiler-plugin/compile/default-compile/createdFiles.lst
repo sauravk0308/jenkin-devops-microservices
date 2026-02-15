@@ -1,0 +1,12 @@
+com\jobapp\jobms\job\Job.class
+com\jobapp\jobms\client\CompanyClient.class
+com\jobapp\jobms\JobmsApplication.class
+com\jobapp\jobms\client\ReviewClient.class
+com\jobapp\jobms\job\JobServiceImpl.class
+com\jobapp\jobms\dto\JobDTO.class
+com\jobapp\jobms\external\Review.class
+com\jobapp\jobms\job\JobService.class
+com\jobapp\jobms\job\JobController.class
+com\jobapp\jobms\job\JobRepository.class
+com\jobapp\jobms\config\AppConfig.class
+com\jobapp\jobms\external\Company.class
